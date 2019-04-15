@@ -1,2 +1,2 @@
-# EmployeeAttrition
-Dummy repository created during Insaid Github session
+# Employee Attrition
+![image.png](images/HRTalent.png)
